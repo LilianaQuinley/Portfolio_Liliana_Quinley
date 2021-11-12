@@ -16,8 +16,6 @@
             align-items: flex-end;
             justify-content: right;
             float: right;
-
-            
         
             img{
                height: 100%;    
@@ -50,6 +48,23 @@
             }
             h3{
                 font-size: 30px;
+
+                span{
+                    font-size: inherit;
+                    color: tomato;
+                }
+
+                .ityped-cursor{
+                    animation: blink 1s infinite;
+                }
+                @keyframes blink {
+                    50%{
+                        opacity: 1;
+                    }
+                    100% {
+                        opacity: 0;
+                    }
+                }
             }
         }
        a{
