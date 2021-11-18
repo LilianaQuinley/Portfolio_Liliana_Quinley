@@ -8,18 +8,18 @@
        
 
         .imgContainer{
-            width: 600px;
-            height: 600px;
+            width: 500px;
+            height: 500px;
             background-color: tomato;
             border-radius: 50%;
             display: flex;
-           
-            justify-content: right;
+            align-items: flex-end;
+            justify-content: center;
             float: right;
            
         
             img{
-               height: 120%; 
+               height: 100%; 
             
             }
             
