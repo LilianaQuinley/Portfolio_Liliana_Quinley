@@ -2,7 +2,8 @@ export const featuredPortfolio = [
     {
         id: 1,
         title: 'Buildings',
-        img: "https://image.shutterstock.com/z/stock-photo-dubai-amazing-city-center-skyline-with-luxury-skyscrapers-and-beautiful-sky-at-sunrise-united-1922753759.jpg"
+        img: "https://image.shutterstock.com/z/stock-photo-dubai-amazing-city-center-skyline-with-luxury-skyscrapers-and-beautiful-sky-at-sunrise-united-1922753759.jpg",
+        
     },
     {
         id: 2,

@@ -16,6 +16,7 @@ export default function Porfolio() {
         {
             id: 'featured',
             title: 'Featured',
+          
         },
         {
             id: 'web',
