@@ -19,12 +19,12 @@ export default function Porfolio() {
           
         },
         {
-            id: 'web',
-            title: 'Web App',
+            id: 'mobile',
+            title: 'Mobile App',
         },
         {
-            id: 'mobile',
-                title: 'Mobile App',
+            id: 'web',
+                title: 'Web App',
         },
         {
             id: 'design',

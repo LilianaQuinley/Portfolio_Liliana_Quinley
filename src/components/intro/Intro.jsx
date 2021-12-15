@@ -10,7 +10,7 @@ export default function Intro() {
             showCursor: true, 
             backDelay: 1500,
             backSpeed: 60,
-            strings: ['Creator', 'Designer', "Content Creator" ]
+            strings: ['UI Design', "Content Creator", 'Collaboration', 'Teaching' ]
          });
         
     }, []);
@@ -20,7 +20,7 @@ export default function Intro() {
         <div className='intro' id='intro'>
             <div className="left">
                 <div className="imgContainer">
-                    <img src="assets/Quinley_Liliana14.jpg" alt="" />
+                    <img src="assets/lilianaJirafe.jpeg" alt="" />
                 </div>
             </div>
             <div className="right">
